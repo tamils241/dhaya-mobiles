@@ -1,0 +1,7 @@
+{
+  "name": "Dhaya Mobiles",
+  "description": "Mobile billing, payment management, and inventory tracking for Dhaya Mobiles retail shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
